@@ -11772,7 +11772,7 @@ label.checkbox.checked:before {
   line-height: 18px;
   font-size: 14px;
   color: #eeeeee;
-  background-color: #009688;
+  background-color: #98c740;
   border: 0;
   font-family: 'Material-Design-Iconic-Font';
 }
@@ -11780,7 +11780,7 @@ label.checkbox.checked:before {
 label.radio:before {
   width: 10px;
   height: 10px;
-  background: #009688;
+  background: #98c740;
   border-radius: 50%;
   position: absolute;
   top: 4px;
@@ -11810,7 +11810,7 @@ label.radio:after {
 }
 
 label.radio.checked:after {
-  border-color: #009688;
+  border-color: #98c740;
 }
 
 .switch {
@@ -11831,7 +11831,7 @@ label.radio.checked:after {
   width: 1.25rem;
 }
 .switch input:checked + label:after {
-  background: #009688;
+  background: #98c740;
   left: 1.1rem;
 }
 
