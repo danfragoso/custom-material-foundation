@@ -10255,7 +10255,7 @@ p + .stat {
   color: white;
 }
 .tabs.primary > li > a:hover, .tabs.primary > li > a:focus {
-  background: #00b3c9;
+  background: #749930;
 }
 
 .tabs-title {
@@ -10306,7 +10306,7 @@ p + .stat {
   box-shadow: 0 -3px 0 0 #ffeb3b inset;
 }
 .tabs .tabs-title > a:hover {
-  background: #00b3c9;
+  background: #749930;
 }
 
 .button {
@@ -10329,7 +10329,7 @@ p + .stat {
   outline: 0;
 }
 .button:hover, .button:focus {
-  background-color: #00b3c9;
+  background-color: #749930;
   color: white;
 }
 .button.tiny {
@@ -10650,7 +10650,7 @@ p + .stat {
   outline: 0;
 }
 .raised-button:hover, .raised-button:focus, .floating-action-button:hover, .floating-action-button:focus {
-  background-color: #00b3c9;
+  background-color: #749930;
   color: white;
 }
 
