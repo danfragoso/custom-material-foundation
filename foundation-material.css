@@ -1602,7 +1602,7 @@ button {
   padding: 1.25rem 1rem;
   line-height: 1;
   font-size: 0.75rem;
-  color: #00bcd4;
+  color: #98c740;
   position: relative;
   border-bottom: 1px solid #fafafa;
 }
@@ -1636,7 +1636,7 @@ button {
   width: 0;
   height: 0;
   border: inset 6px;
-  border-color: #00bcd4 transparent transparent;
+  border-color: #98c740 transparent transparent;
   border-top-style: solid;
   border-bottom-width: 0;
   position: absolute;
@@ -1679,7 +1679,7 @@ button {
   opacity: 1;
 }
 .breadcrumbs a {
-  color: #00bcd4;
+  color: #98c740;
 }
 .breadcrumbs a:hover {
   text-decoration: underline;
@@ -1831,7 +1831,7 @@ button {
   width: 0;
   height: 0;
   border: inset 6px;
-  border-color: transparent transparent transparent #00bcd4;
+  border-color: transparent transparent transparent #98c740;
   border-left-style: solid;
   border-right-width: 0;
   position: absolute;
@@ -1846,7 +1846,7 @@ button {
   width: 0;
   height: 0;
   border: inset 6px;
-  border-color: transparent #00bcd4 transparent transparent;
+  border-color: transparent #98c740 transparent transparent;
   border-right-style: solid;
   border-left-width: 0;
   border-left-width: 0;
@@ -1875,7 +1875,7 @@ button {
   width: 0;
   height: 0;
   border: inset 5px;
-  border-color: #00bcd4 transparent transparent;
+  border-color: #98c740 transparent transparent;
   border-top-style: solid;
   border-bottom-width: 0;
   right: 5px;
@@ -1908,7 +1908,7 @@ button {
   width: 0;
   height: 0;
   border: inset 5px;
-  border-color: transparent #00bcd4 transparent transparent;
+  border-color: transparent #98c740 transparent transparent;
   border-right-style: solid;
   border-left-width: 0;
 }
@@ -1918,7 +1918,7 @@ button {
   width: 0;
   height: 0;
   border: inset 5px;
-  border-color: transparent transparent transparent #00bcd4;
+  border-color: transparent transparent transparent #98c740;
   border-left-style: solid;
   border-right-width: 0;
 }
@@ -1943,7 +1943,7 @@ button {
     width: 0;
     height: 0;
     border: inset 5px;
-    border-color: #00bcd4 transparent transparent;
+    border-color: #98c740 transparent transparent;
     border-top-style: solid;
     border-bottom-width: 0;
     right: 5px;
@@ -1970,7 +1970,7 @@ button {
     width: 0;
     height: 0;
     border: inset 5px;
-    border-color: transparent #00bcd4 transparent transparent;
+    border-color: transparent #98c740 transparent transparent;
     border-right-style: solid;
     border-left-width: 0;
   }
@@ -1980,7 +1980,7 @@ button {
     width: 0;
     height: 0;
     border: inset 5px;
-    border-color: transparent transparent transparent #00bcd4;
+    border-color: transparent transparent transparent #98c740;
     border-left-style: solid;
     border-right-width: 0;
   }
@@ -2006,7 +2006,7 @@ button {
     width: 0;
     height: 0;
     border: inset 5px;
-    border-color: #00bcd4 transparent transparent;
+    border-color: #98c740 transparent transparent;
     border-top-style: solid;
     border-bottom-width: 0;
     right: 5px;
@@ -2033,7 +2033,7 @@ button {
     width: 0;
     height: 0;
     border: inset 5px;
-    border-color: transparent #00bcd4 transparent transparent;
+    border-color: transparent #98c740 transparent transparent;
     border-right-style: solid;
     border-left-width: 0;
   }
@@ -2043,7 +2043,7 @@ button {
     width: 0;
     height: 0;
     border: inset 5px;
-    border-color: transparent transparent transparent #00bcd4;
+    border-color: transparent transparent transparent #98c740;
     border-left-style: solid;
     border-right-width: 0;
   }
@@ -2099,7 +2099,7 @@ button {
   width: 0;
   height: 0;
   border: inset 5px;
-  border-color: transparent #00bcd4 transparent transparent;
+  border-color: transparent #98c740 transparent transparent;
   border-right-style: solid;
   border-left-width: 0;
 }
@@ -2109,7 +2109,7 @@ button {
   width: 0;
   height: 0;
   border: inset 5px;
-  border-color: transparent transparent transparent #00bcd4;
+  border-color: transparent transparent transparent #98c740;
   border-left-style: solid;
   border-right-width: 0;
 }
@@ -2426,7 +2426,7 @@ body {
 }
 .pagination .current {
   padding: 0.1875rem 0.625rem;
-  background: #00bcd4;
+  background: #98c740;
   color: white;
   cursor: default;
 }
@@ -9838,7 +9838,7 @@ h6 {
   }
 }
 a {
-  color: #00bcd4;
+  color: #98c740;
   text-decoration: none;
   line-height: inherit;
   cursor: pointer;
@@ -10222,7 +10222,7 @@ p + .stat {
 .tabs {
   margin: 0;
   list-style-type: none;
-  background: #00bcd4;
+  background: #98c740;
   border: 1px solid #fafafa;
 }
 .tabs::before, .tabs::after {
@@ -10249,7 +10249,7 @@ p + .stat {
 }
 
 .tabs.primary {
-  background: #00bcd4;
+  background: #98c740;
 }
 .tabs.primary > li > a {
   color: white;
@@ -10271,7 +10271,7 @@ p + .stat {
   background: white;
 }
 .tabs-title > a:focus, .tabs-title > a[aria-selected='true'] {
-  background: #00bcd4;
+  background: #98c740;
 }
 
 .tabs-content {
@@ -10322,7 +10322,7 @@ p + .stat {
   padding: 0.85em 1em 0.7em 1em;
   margin: 0 0 1rem 0;
   font-size: 0.9rem;
-  background-color: #00bcd4;
+  background-color: #98c740;
   color: white;
 }
 [data-whatinput='mouse'] .button {
@@ -10348,7 +10348,7 @@ p + .stat {
   margin-right: 0;
 }
 .button.primary {
-  background-color: #00bcd4;
+  background-color: #98c740;
   color: white;
 }
 .button.primary:hover, .button.primary:focus {
@@ -10388,8 +10388,8 @@ p + .stat {
   color: white;
 }
 .button.hollow {
-  border: 1px solid #00bcd4;
-  color: #00bcd4;
+  border: 1px solid #98c740;
+  color: #98c740;
 }
 .button.hollow, .button.hollow:hover, .button.hollow:focus {
   background-color: transparent;
@@ -10399,8 +10399,8 @@ p + .stat {
   color: #005e6a;
 }
 .button.hollow.primary {
-  border: 1px solid #00bcd4;
-  color: #00bcd4;
+  border: 1px solid #98c740;
+  color: #98c740;
 }
 .button.hollow.primary:hover, .button.hollow.primary:focus {
   border-color: #005e6a;
@@ -10526,7 +10526,7 @@ p + .stat {
   margin-right: 1px;
 }
 .button-group.primary .button {
-  background-color: #00bcd4;
+  background-color: #98c740;
   color: white;
 }
 .button-group.primary .button:hover, .button-group.primary .button:focus {
@@ -10643,7 +10643,7 @@ p + .stat {
   padding: 0.85em 1em 0.7em 1em;
   margin: 0 0 1rem 0;
   font-size: 0.9rem;
-  background-color: #00bcd4;
+  background-color: #98c740;
   color: white;
 }
 [data-whatinput='mouse'] .raised-button, [data-whatinput='mouse'] .floating-action-button {
@@ -10716,17 +10716,17 @@ p + .stat {
   margin: 0 0 1rem 0;
   font-size: 0.9rem;
   background-color: transparent;
-  color: #00bcd4;
+  color: #98c740;
 }
 [data-whatinput='mouse'] .flat-button {
   outline: 0;
 }
 .flat-button:hover, .flat-button:focus {
   background-color: rgba(153, 153, 153, 0.2);
-  color: #00bcd4;
+  color: #98c740;
 }
 .flat-button, .flat-button:hover {
-  color: #00bcd4;
+  color: #98c740;
 }
 
 .disabled-button {
@@ -10813,7 +10813,7 @@ p + .stat {
   font-size: 0.6rem;
   text-align: center;
   border-radius: 50%;
-  background: #00bcd4;
+  background: #98c740;
   color: white;
 }
 .badge.secondary {
@@ -10841,7 +10841,7 @@ p + .stat {
   white-space: nowrap;
   cursor: default;
   border-radius: 2px;
-  background: #00bcd4;
+  background: #98c740;
   color: white;
 }
 .label.secondary {
@@ -11008,7 +11008,7 @@ tr:last-child {
 }
 .top-bar,
 .top-bar ul {
-  background-color: #00bcd4;
+  background-color: #98c740;
 }
 .top-bar ul ul {
   background-color: #fafafa;
@@ -11167,7 +11167,7 @@ tr:last-child {
 }
 .menu .active > a {
   color: white;
-  background: #00bcd4;
+  background: #98c740;
 }
 
 .menu-text {
@@ -11473,7 +11473,7 @@ input[type="text"]:-moz-placeholder, input[type="text"]::-moz-placeholder, input
   color: rgba(0, 0, 0, 0.26);
 }
 input[type="text"]:focus, input[type="password"]:focus, input[type="date"]:focus, input[type="datetime"]:focus, input[type="datetime-local"]:focus, input[type="month"]:focus, input[type="week"]:focus, input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focus, input[type="tel"]:focus, input[type="time"]:focus, input[type="url"]:focus, input[type="color"]:focus, textarea:focus {
-  border-bottom: 2px solid #00bcd4;
+  border-bottom: 2px solid #98c740;
   position: relative;
   top: 1px;
   background: transparent;
@@ -11500,7 +11500,7 @@ input[type="text"].with-floating-label:focus + label.floating-label, input[type=
   border-radius: 0;
 }
 .progress.primary .progress-meter {
-  background-color: #00bcd4;
+  background-color: #98c740;
 }
 .progress.secondary .progress-meter {
   background-color: #ffeb3b;
@@ -11520,7 +11520,7 @@ input[type="text"].with-floating-label:focus + label.floating-label, input[type=
   display: block;
   width: 0%;
   height: 100%;
-  background-color: #00bcd4;
+  background-color: #98c740;
 }
 
 .progress-meter-text {
@@ -11554,7 +11554,7 @@ input[type="text"].with-floating-label:focus + label.floating-label, input[type=
   display: inline-block;
   max-width: 100%;
   height: 4px;
-  background-color: #00bcd4;
+  background-color: #98c740;
   transition: all 0.2s ease-in-out;
 }
 .slider-fill.is-dragging {
@@ -11571,7 +11571,7 @@ input[type="text"].with-floating-label:focus + label.floating-label, input[type=
   display: inline-block;
   width: 12px;
   height: 12px;
-  background-color: #00bcd4;
+  background-color: #98c740;
   transition: all 0.2s ease-in-out;
   touch-action: manipulation;
   border-radius: 50%;
@@ -11614,10 +11614,10 @@ input[type="text"].with-floating-label:focus + label.floating-label, input[type=
 }
 
 .slider-handle.is-dragging {
-  box-shadow: 0 0 0 6px #00bcd4;
+  box-shadow: 0 0 0 6px #98c740;
 }
 .slider-handle:hover {
-  background-color: #00bcd4;
+  background-color: #98c740;
 }
 
 .switch {
@@ -11664,7 +11664,7 @@ input + .switch-paddle {
   border-radius: 2px;
 }
 input:checked ~ .switch-paddle {
-  background: #00bcd4;
+  background: #98c740;
 }
 input:checked ~ .switch-paddle::after {
   left: 2.25rem;
@@ -11919,7 +11919,7 @@ label.radio.checked:after {
 }
 
 .summary {
-  border-left: 5px solid #00bcd4;
+  border-left: 5px solid #98c740;
   padding-left: 20px;
 }
 .summary h1 {
@@ -11942,7 +11942,7 @@ body {
 }
 
 header {
-  background: #00bcd4;
+  background: #98c740;
   overflow: hidden;
 }
 header h1 {
@@ -11982,7 +11982,7 @@ hr {
 }
 
 h2.demo-headline {
-  color: #00bcd4;
+  color: #98c740;
   margin-top: 50px;
 }
 
@@ -12029,3 +12029,5 @@ h2.demo-headline {
   margin-top: 15px;
   padding-top: 15px;
 }
+
+/*# sourceMappingURL=demo.css.map */
